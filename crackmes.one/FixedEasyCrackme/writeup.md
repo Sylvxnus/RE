@@ -108,6 +108,9 @@ Step 5
 So now that we know the password, we can run the program, inside the command line, we know that it runs in the command line, because DIE actually told us in the first line of its analysis that it runs on the console. Which is very helpful!
 
 <img width="322" height="118" alt="Screenshot 2026-05-23 173530" src="https://github.com/user-attachments/assets/37fcfb7a-3f26-485f-ae8d-66d24065868b" />
+
+
+
 So we run the program and entered the password....and we cracked it!
 
 
